@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "apimart-models",
+  "packageVersion": "0.3.0",
+  "npmUrl": "https://www.npmjs.com/package/apimart-models",
+  "usageRepository": "https://github.com/x12i-sdk/apimart-models",
+  "sourceRepository": "https://github.com/x12i/ai-profiles",
+  "sourceCommit": "8efd4dc11dfaacab2ceef9f030a4a3fa7da00800",
+  "sourcePackageDirectory": "packages/apimart-models",
+  "example": {
+    "title": "Look up models in the bundled offline catalog",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:33:08.896869+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "5c3996dba242155d95d9d81eeee29c2ffe84dbc81a68aff2cbca7922f531d644",
+    "manifestSha256": "b7527455883739278c9cb2ab59198644fc60ac03321f3467741a7838fbfd3c4a"
+  }
+}
