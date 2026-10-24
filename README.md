@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Offline JSON-backed APIMart model catalog — reseller rates (~20–30% below list).
-- An application needs the versioned apimart-models definitions or bundled content instead of maintaining its own copy.
+- Populate a model picker from the bundled APIMart catalog.
+- Read recorded model pricing without contacting the provider and retain the dataset's date context.
 
 ## Links
 
